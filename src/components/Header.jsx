@@ -10,7 +10,7 @@ export default function Header() {
     <header>
       <nav className="flex justify-between items-center h-12 px-4 shadow-md bg-sky-200 text-white">
         <Link href="/" className="text-lg font-bold">
-          🐶🐾 Shopping For Dog's Clothes 🐾🐶
+          🐶🐾 Shopping For Dog Clothes 🐾🐶
         </Link>
         <div>
           <span className="cart-badge">
